@@ -1,158 +1,27 @@
-Welcome to the Dominos Clone Pizza Ordering App! 🍕🍟
+# Domino's Pizza Ordering App
 
- forthebadge made-with-python
+![Domino's Pizza Logo](dominos_logo.png)
 
-Demo
+Welcome to the Domino's Pizza Ordering App! This app allows you to easily order delicious pizzas from Domino's right from the comfort of your home.
 
-This is a simple pizza ordering app built using Django, a high-level Python web framework.
+## Key Features
 
-This repo contains the following:
+- **User-friendly Interface**: The app provides a simple and intuitive interface for easy navigation and ordering.
+- **Customizable Orders**: Customize your pizza with various toppings, crusts, and sizes to suit your taste.
+- **Order Tracking**: Track your order in real-time to know exactly when your pizza will be delivered.
+- **Secure Payments**: Securely pay for your order using the Instamojo payment gateway, ensuring a safe transaction.
+- **Order History**: View your past orders for quick reordering of your favorite pizzas.
+- **Promotions and Discounts**: Stay updated with the latest promotions and discounts to get the best deals on your orders.
 
-pizza/: Django project folder containing settings, urls, and wsgi files
-pizzas/: Django app folder containing models, views, templates, and static files for the pizza app
-requirements.txt: A list of required python packages to run the app
-Readme.md: This file 😄
-Prerequisites
-Python 3.6 or higher
-pipenv (Python environment manager)
-git
-How to use this repo
-Clone the repo
+## Key Characteristics
 
-Edit
-Full Screen
-Copy code
-git clone https://github.com/krishanmurariji/Dominos_clone.git
-Create a virtual environment and install the packages
+- **Built with Django and Python**: The app is developed using the Django web framework and Python programming language, ensuring robustness and scalability.
+- **Integration with Instamojo**: Seamless integration with the Instamojo payment gateway for secure and convenient payments.
+- **Responsive Design**: The app is designed to be responsive, ensuring a consistent user experience across different devices.
 
-Edit
-Full Screen
-Copy code
-cd Dominos_clone
-pipenv install -r requirements.txt
-pipenv shell
-Run the app
+## How to Use
 
-Edit
-Full Screen
-Copy code
-python manage.py runserver
-Access the app
+### Clone the Repository
 
-Open your browser and navigate to http://localhost:8000/
-
-App Features
-Browse through the pizza menu
-Add and remove pizzas from your order
-View your order summary
-Checkout and place your order
-View your order history
-Built With
-Python 3.6
-Django 3.2
-HTML
-CSS
-Javascript
-Contributing
-Contributions are welcome! Feel free to submit a pull request or open an issue.
-
-License
-This project is licensed under the MIT License.
-
-Contact
-Krishan Murari
-
-GitHub
-Linkedin
-Email
-Enjoy your homemade pizza! 🍕🎉
-
-Is this conversation helpful so far?
-
-
-
-
-rewrite agian
-
-
-🍕 Dominos Clone Pizza Ordering App 🍕
-
-A simple, yet feature-rich pizza ordering app built using Django 🐍.
-
-for the badge
-
-Demo
-
-🧪 Table of Contents
-Features
-Requirements
-Setup
-Usage
-Built With
-Contributing
-License
-Author
-🍕 Features
-🍕 Browse the pizza menu
-🛒 Add and remove pizzas from your order
-💲 View your order summary
-💳 Checkout and place your order
-📊 View your order history
-📋 Requirements
-Python 3.6 or higher
-pipenv (Python environment manager)
-git
-🚀 Setup
-Clone the repo
-
-Edit
-Full Screen
-Copy code
-git clone https://github.com/krishanmurariji/Dominos_clone.git
-Create a virtual environment and install the packages
-
-Edit
-Full Screen
-Copy code
-cd Dominos_clone
-pipenv install -r requirements.txt
-pipenv shell
-Run the app
-
-Edit
-Full Screen
-Copy code
-python manage.py runserver
-Access the app
-
-Open your browser and navigate to http://localhost:8000/
-
-📚 Usage
-Browse the menu 🍕:
-
-View different pizza categories
-Check out pizza details and prices
-Add or remove pizzas from your order
-Order summary 🛒:
-
-View total price and pizzas in your order
-Adjust quantity or remove pizzas from your order
-Checkout 💳:
-
-Enter your personal data and delivery address
-Finalize the order and wait for your delicious pizza!
-🛠 Built With
-Python 3.6
-Django 3.2
-HTML
-CSS
-Javascript
-🚧 Contributing
-Contributions are more than welcome! Feel free to submit a pull request or open an issue.
-
-📝 License
-This project is shared under the MIT License.
-
-🙋 Author
-Krishan Murari
-Enjoy your pizza! 🍕
+```bash
+git clone https://github.com/yourusername/dominos-pizza-app.git
