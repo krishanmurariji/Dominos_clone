@@ -10,5 +10,5 @@ python3.9 manage.py collectstatic --no-input
 
 # Remove temporary file
 rm get-pip.py
-
+echo "Static files generated in $(pwd)/staticfiles_build/static"
 echo "BUILD END"
