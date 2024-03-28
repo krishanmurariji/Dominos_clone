@@ -23,8 +23,7 @@ The Domino's Pizza Ordering App is built using the following technologies:
 - **Backend**: Django (Python) 🐍
 - **Payment Gateway**: Instamojo API 💳
 - **Frontend**: HTML, CSS, JavaScript 🌐
-- **Database**: SQLite (for development), PostgreSQL (for production) 🗃️
-- **Deployment**: Heroku, Docker 🚀
+- **Database**: SQLite (for development)
 
 <h2>🚀 Getting Started</h2>
 
